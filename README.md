@@ -1,3 +1,3 @@
 # DNI
 
-## Codigo creado principalmente
+## Codigo creado principalmente por David Gelpi
